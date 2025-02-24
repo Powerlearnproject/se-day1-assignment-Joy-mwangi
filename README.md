@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software enginering is the application of engineering principles to design, develop, test, deploy, and maintain software products.Software engineering is crucial in the technology industry as it ensures the development of reliable, scalable, and secure software, driving innovation, efficiency, automation, and global connectivity.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -56,6 +57,14 @@ What are some common challenges faced by software engineers? Provide strategies 
 - Accumulated Technical Debt: Quick fixes or inefficient solutions can create long-term challenges, making future development and maintenance more difficult.  
 
 To address these challenges, teams can focus on clear communication, adopt agile development practices, prioritize tasks effectively, and continuously review project objectives and schedules.
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+- Unit Testing: Evaluating individual software components or modules in isolation.  
+- Integration Testing: Assessing how different components or subsystems interact with each other.  
+- System Testing: Examining the complete software system to ensure it functions as intended.  
+- Acceptance Testing: Verifying that the software aligns with user requirements and expectations.  
+
+Significance: Implementing practices like code reviews, automated tests, and continuous integration helps detect and resolve issues early in development, ensuring a more reliable and high-quality software product.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
